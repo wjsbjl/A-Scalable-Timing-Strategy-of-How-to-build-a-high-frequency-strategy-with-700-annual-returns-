@@ -1,0 +1,3 @@
+中国金融期货交易所（中金所）沪深300股指期货（即：SFIF系列）是中国金融期货交易所推出的第一个股指期货品种，包括4个月的合约。这里的数据是SFIF.0001——中金所沪深300股指期货当月连续合约的（tick）分笔数据。
+
+每笔数据字段分别为:日期date，代码sym,交易时间Time，成交价格Price，成交量Volume，成交金额Amount，持仓量OpenInt，总成交量TotalVol，总成交金额TotalAmount，Price2，Price3，上一收盘价LastClose，开盘Open，最高High，最低Low，卖一价SP1，卖二价SP2，卖三价SP3，卖四价SP4，卖五价SP5，卖一量SV1，卖二量SV2，卖三量SV3，卖四量SV4，卖五量SV5，买一价BP1，买二价BP2，买三价BP3，买四价BP4，买五价BP5，买一量BV1，买二量BV2，买三量BV3，买四量BV4，买五量BV5，买卖标识isBuy
